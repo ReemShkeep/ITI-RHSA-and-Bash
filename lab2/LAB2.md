@@ -2,10 +2,19 @@
  username: islam
  Fullname/comment: Islam Askar
  Password: islam
+![lab2](https://user-images.githubusercontent.com/96814665/204120534-e4087656-1fa7-4b2f-bb46-9223613d563d.png)
+
+
+
 2. Create a user account with the following attribute
  Username: baduser
  Full name/comment: Bad User
  Password: baduser
+![lab2 1](https://user-images.githubusercontent.com/96814665/204120574-85fd5c94-50e2-4531-bdab-98ff4d81200b.png)
+
+![lab2 passwd nbdus](https://user-images.githubusercontent.com/96814665/204120583-738b98c4-0452-4876-86d3-a3738ddd8582.png)
+
+
 3. Create a supplementary (Secondary) group called pgroup with group ID of 30000
 4. Create a supplementary group called badgroup
 5. Add islam user to the pgroup group as a supplementary group
