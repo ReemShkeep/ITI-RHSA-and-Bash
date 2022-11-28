@@ -67,6 +67,9 @@
 19. Create a folder called myteam in your home directory and change its permissions to
 read only for the owner.
 
+![Screenshot from 2022-11-28 12-31-32](https://user-images.githubusercontent.com/96814665/204257521-bf9244c6-4213-4eca-b753-f894cc305c67.png)
+
+
 
 
 
