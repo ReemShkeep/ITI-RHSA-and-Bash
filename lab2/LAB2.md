@@ -22,7 +22,7 @@
 
 
 
-5. Create a supplementary group called badgroup
+5. Create a supplementary group called userbad
 ![Screenshot from 2022-11-28 11-33-35](https://user-images.githubusercontent.com/96814665/204243281-5542d454-8206-48da-ae07-221a73567483.png)
 
 
@@ -59,8 +59,9 @@
 
 
 
-17. Delete the supplementary group called badgroup.
+17. Delete the supplementary group called userbad.
 
+![Screenshot from 2022-11-28 12-21-58](https://user-images.githubusercontent.com/96814665/204253822-eae52b66-e4d2-4826-84a7-d58d315dfaf4.png)
 
 
 19. Create a folder called myteam in your home directory and change its permissions to
