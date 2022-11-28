@@ -55,6 +55,7 @@
 
 
 15. Delete bad user account
+![Screenshot from 2022-11-28 12-08-42](https://user-images.githubusercontent.com/96814665/204251166-618dcb91-2d59-449b-9d8a-2aa568bfe5a2.png)
 
 
 
