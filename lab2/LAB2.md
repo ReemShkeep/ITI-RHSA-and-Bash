@@ -61,25 +61,26 @@ read only for the owner.
 ![Screenshot from 2022-11-28 12-31-32](https://user-images.githubusercontent.com/96814665/204257521-bf9244c6-4213-4eca-b753-f894cc305c67.png)
 
 17. What are the minimum permission needed for:
- Copy a directory (permission for source directory and permissions for target
+ Copy a directory (permission for source directory and permissions for target
 parent directory)
- Copy a file (permission for source file and and permission for target parent
+ Copy a file (permission for source file and and permission for target parent
 directory)
- Delete a file
- Change to a directory
- List a directory content (ls command)
- View a file content (more/cat command)
- Modify a file content
+Delete a file
+Change to a directory
+List a directory content (ls command)
+View a file content (more/cat command)
+Modify a file content
 
 
 18. Using the command Line
- Change the permissions of oldpasswd file to give owner read and write
+ Change the permissions of oldpasswd file to give owner read and write
 permissions and for group write and execute and execute only for the others
+
 (using chmod in 2 different ways)
- Change your default permissions to be as above.
- What is the maximum permission a file can have, by default when it is just
+ Change your default permissions to be as above.
+ What is the maximum permission a file can have, by default when it is just
 created? And what is that for directory.
- Change your default permissions to be no permission to everyone then create a
+ Change your default permissions to be no permission to everyone then create a
 directory and a file to verify.
 
 
