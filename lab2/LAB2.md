@@ -101,9 +101,6 @@ created? And what is that for directory.
 
 
 
-
-
-
  Change your default permissions to be no permission to everyone then create a
 directory and a file to verify.
 ![Screenshot from 2022-12-03 10-38-10](https://user-images.githubusercontent.com/96814665/205482216-d1e69c28-9aed-4ac5-81c7-9ea3a2f41a73.png)
