@@ -56,11 +56,12 @@ who --count
 
 ![Screenshot from 2022-12-11 02-39-58](https://user-images.githubusercontent.com/96814665/206882133-94eac2cc-592c-4626-af55-d55f87db65d8.png)
 
+![Screenshot from 2022-12-11 02-52-45](https://user-images.githubusercontent.com/96814665/206882138-6c3e4a98-3635-4d96-8101-dd118e62daee.png)
+
 
 8. Display lines 7 to line 10 of /etc/passwd file
 
 head /etc/passwd | tail -4
-![Screenshot from 2022-12-11 02-52-45](https://user-images.githubusercontent.com/96814665/206882138-6c3e4a98-3635-4d96-8101-dd118e62daee.png)
 
 #cat tail +7 /etc/passwd | head -4  
 #error cant use cat with tail and cant use tail +no. from beggining
