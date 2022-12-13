@@ -1,15 +1,15 @@
 
 11. Create a symbolic link of /etc/passwd in /boot.
-![lab5 12](https://user-images.githubusercontent.com/96814665/207315592-57629d10-916d-4cd3-83e5-199560ac5bc1.png)
+![lab5 11 1](https://user-images.githubusercontent.com/96814665/207318252-1343b5fe-ec64-4031-998b-0a5288a7e59a.png)
+
 
 
 ![lab5 11 2 png](https://user-images.githubusercontent.com/96814665/207314901-ea855458-a2bb-4567-be52-259a29309f42.png)
 
-![lab5 12](https://user-images.githubusercontent.com/96814665/207315644-8efe86b8-ff49-4e09-a776-59da350ee60f.png)
 
 
 12. Create a hard link of /etc/passwd in /boot. Could you? Why?!
- [lab5 12](https://user-images.githubusercontent.com/96814665/207314776-50e7a2cc-2367-4ade-a89c-d4ef8a796c9f.png)
+![lab5 12](https://user-images.githubusercontent.com/96814665/207315644-8efe86b8-ff49-4e09-a776-59da350ee60f.png)
  
  
  
