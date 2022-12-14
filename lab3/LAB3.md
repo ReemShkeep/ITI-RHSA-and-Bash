@@ -8,9 +8,18 @@ a. Move the cursor down one line at time. K
 b. Move the cursor up one line at time.   j
 c. Search for word age   :/age 
 d. Step to line 5 (assuming that you are in line 1 and file is more than 5 lines).  :5 
+
+
+
 e. Delete the line you are on and line 5. :5:dd
+
+
+
 f. How to step to the end of line and change to writing mode in one-step.
             esc
+            
+            
+            
 3. List the available shells in your system.
 
 
@@ -36,7 +45,12 @@ f. How to step to the end of line and change to writing mode in one-step.
 10.Execute the following command :
 echo \ then press enter
 What is the purpose of \ ?
+
+
+
+
 Notice the prompt ”>” what is that? and how can you change it from “>” to “:”.
+![Screenshot from 2022-12-11 19-11-49](https://user-images.githubusercontent.com/96814665/207324504-5ba750b4-9e10-4686-a75c-cb85646b2d58.png)
 
 
 
