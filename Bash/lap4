@@ -1,0 +1,64 @@
+17-env
+================
+
+18- echo ${GNOME_TERMINAL_SCREEN}
+================
+
+19-echo ${USER}
+================
+
+20-alias ls='ls -l'
+\ls
+ls
+================
+
+21-ping www.google.com
+PING www.google.com (142.250.200.196) 56(84) bytes of data.
+64 bytes from mrs08s17-in-f4.1e100.net (142.250.200.196): icmp_seq=1 ttl=128 time=89.1 ms
+64 bytes from mrs08s17-in-f4.1e100.net (142.250.200.196): icmp_seq=2 ttl=128 time=71.9 ms
+64 bytes from mrs08s17-in-f4.1e100.net (142.250.200.196): icmp_seq=3 ttl=128 time=63.4 ms
+64 bytes from mrs08s17-in-f4.1e100.net (142.250.200.196): icmp_seq=4 ttl=128 time=68.3 ms
+^C
+--- www.google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+rtt min/avg/max/mdev = 63.370/73.141/89.075/9.680 ms
+================
+
+22-sudo gedit /etc/hosts
+
+OR
+
+vi /etc/hosts
+
+OR
+
+vim /etc/hosts
+
+cat /etc/hosts
+
+127.0.0.1	localhost
+127.0.1.1	ubuntu
+195.10.10.2	www.iti-project-dep.com
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+================
+
+lab5
+1-wc -l /etc/passwd
+48 /etc/passwd
+================
+
+2-grep games /etc/passwd
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+================
+
+3- cut -f1 -d: /etc/passwd
+================
+
+4-cut -f5 -d: /etc/passwd
+================
